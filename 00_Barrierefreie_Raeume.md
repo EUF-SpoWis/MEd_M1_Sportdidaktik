@@ -22,7 +22,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/MEd_M1_Sportdidaktik/blob/main/00_Barrierefreie_Raeume.md      |
 | **Autoren:**             | @author                                                                                         |
 
-## Spielplatz 1
+ Spielplatz 1
 
 <iframe
   src="panorama/index.html"
