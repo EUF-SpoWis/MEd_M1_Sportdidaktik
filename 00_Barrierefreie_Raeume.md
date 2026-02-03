@@ -24,11 +24,11 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
  ## Spielplatz 1
 
+
 <iframe
-  src="panorama/index.html"
+  src="./panorama/index.html"
   width="100%"
   height="600"
-  style="border: none;"
-  allowfullscreen
-  loading="lazy">
+  style="border:none;"
+  allowfullscreen>
 </iframe>
