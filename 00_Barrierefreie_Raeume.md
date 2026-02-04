@@ -32,6 +32,11 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
   allowfullscreen>
 </iframe>
 
+<figcaption>
+© 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
+Verwendung ausschließlich zu Lehrzwecken.
+</figcaption>
+
 ## Spielplatz 2 
 
 <iframe
@@ -41,3 +46,8 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
   style="border: none;"
   allowfullscreen>
 </iframe>
+
+<figcaption>
+© 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
+Verwendung ausschließlich zu Lehrzwecken.
+</figcaption>
