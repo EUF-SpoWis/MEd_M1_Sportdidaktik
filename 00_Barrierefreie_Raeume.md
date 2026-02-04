@@ -34,7 +34,6 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
 <figcaption>
 © 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
-Verwendung ausschließlich zu Lehrzwecken.
 </figcaption>
 
 ## Spielplatz 2 
@@ -49,5 +48,4 @@ Verwendung ausschließlich zu Lehrzwecken.
 
 <figcaption>
 © 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
-Verwendung ausschließlich zu Lehrzwecken.
 </figcaption>
