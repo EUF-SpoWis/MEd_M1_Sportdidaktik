@@ -18,7 +18,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 | **Veranstaltung:**       | @config.lecture                                                                                 |
 | **Semester:**            | @config.semester                                                                                |
 | **Hochschule:**          | `Europa-Universität Flensburg`                                                                  |
-| **Inhalte:**             | `360° Begehungen übe Spielplätze`                  |
+| **Inhalte:**             | `360° Begehungen über Spielplätze`                  |
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/MEd_M1_Sportdidaktik/blob/main/00_Barrierefreie_Raeume.md      |
 | **Autoren:**             | @author                                                                                         |
 
