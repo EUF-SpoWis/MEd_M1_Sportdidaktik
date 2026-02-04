@@ -22,10 +22,10 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/MEd_M1_Sportdidaktik/blob/main/00_Barrierefreie_Raeume.md      |
 | **Autoren:**             | @author                                                                                         |
 
- ## Spielplatz 1
+## Spielplatz 1
 
 <iframe
-  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/index.html"
+  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Großer_Spielplatz/index.html"
   width="100%"
   height="600"
   style="border: none;"
@@ -35,7 +35,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 ## Spielplatz 2 
 
 <iframe
-  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/index.html"
+  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Onkel_Rudi/index.html"
   width="100%"
   height="600"
   style="border: none;"
