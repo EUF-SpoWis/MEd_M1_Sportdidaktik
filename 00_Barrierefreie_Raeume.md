@@ -26,9 +26,9 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
 
 <iframe
-  src="./panorama/index.html"
+  src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/index.html"
   width="100%"
   height="600"
-  style="border:none;"
+  style="border: none;"
   allowfullscreen>
 </iframe>
