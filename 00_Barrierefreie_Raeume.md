@@ -22,7 +22,13 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 | **Link auf GitHub:**     | https://github.com/EUF-SpoWis/MEd_M1_Sportdidaktik/blob/main/00_Barrierefreie_Raeume.md      |
 | **Autoren:**             | @author                                                                                         |
 
-## Spielplatz 1
+## Motivierung
+
+!?[Aktion Mensch - ziemlich unzertrennlich](https://www.youtube.com/watch?v=99ibUUwjdY0)
+
+## Exemplarische Spielplätze
+
+### Spielplatz 1
 
 <iframe
   src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Großer_Spielplatz/index.html"
@@ -36,7 +42,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 © 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
 </figcaption>
 
-## Spielplatz 2 
+### Spielplatz 2 
 
 <iframe
   src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Onkel_Rudi/index.html"
