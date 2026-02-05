@@ -28,7 +28,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
 ## SUPA-Analysetool
 
-> Das SUPA (=Schul- und Pausenhof Analyseschema) kann zur Beurteilung der Barrierefreiheit von bewegungsräumen wie Spielplätzen verwendet werden. Es unterscheidte zwischen den Dimensionen *Raum* und *Qualität*. 
+> Das SUPA (=Schul- und Pausenhof Analyseschema) kann zur Beurteilung der Barrierefreiheit von bewegungsräumen wie Spielplätzen verwendet werden. Es unterscheidte zwischen den Dimensionen *Raum* und *Qualität* (Bükers & Wibowo, 2020; Bükers & Heemsoth, 2022).
 
 **Dimension: Raum**
 
@@ -107,3 +107,9 @@ im Aufbau
 <figcaption>
 © 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
 </figcaption>
+
+## Quellen
+
+- Bükers, F., & Heemsoth, T. (2022). Barrierefreiheit von Schulhöfen durch Analysebeispiele identifizieren lernen. Qualifizierung für Inklusion, 4(1). 
+- Bükers, F., & Wibowo, J. (2020). Barrierefreiheit von Sporthallen. German Journal of Exercise and Sport Research, 50(1), 71–81. https://doi.org/10.1007/s12662-019-00636-8 
+
