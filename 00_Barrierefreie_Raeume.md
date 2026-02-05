@@ -26,7 +26,59 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
 !?[Aktion Mensch - ziemlich unzertrennlich](https://www.youtube.com/watch?v=99ibUUwjdY0)
 
+## SUPA-Analysetool
+
+> Das SUPA (=Schul- und Pausenhof Analyseschema) kann zur Beurteilung der Barrierefreiheit von bewegungsräumen wie Spielplätzen verwendet werden. Es unterscheidte zwischen den Dimensionen *Raum* und *Qualität*. 
+
+**Dimension: Raum**
+
+- Verkehrswege (Haupt- sowie davon abführende Nebenwege)
+- Spielgeräte (Schaukel, Rutsche, Sandkasten, Seilbahn, Wasserspiel, etc.)
+- Sitzgelegenheiten bzw. (gemeinsame) Ausruh-Orte (Bänke, Grünflächen, etc.)
+- Materialaufbewahrungsorte (Garage, Gartenhäuschen, Container, etc.)
+- Sportspezifische Räume (Tischtennisplatte, Fußball/-Basketball-Platz, etc.)
+
+**Dimension: Qualität**
+
+- Horizontale Erreichbarkeit
+- Vertikale Erreichbarkeit
+- Farbe & Kontrast
+- Beschilderung
+- Ordnung
+- Beleuchtung, Schatten & Beschattung
+- Akustik
+
+### Horizontale Erreichbarkeit 
+
+im Aufbau
+
+### Vertikale Erreichbarkeit
+
+im Aufbau
+
+### Farbe & Kontrast
+
+im Aufbau
+
+### Beschilderung
+
+im Aufbau
+
+### Ordnung
+
+im Aufbau
+
+### Beleuchtung, Schatten & Beschattung
+
+im Aufbau
+
+### Akustik
+
+im Aufbau
+
 ## Exemplarische Spielplätze
+
+> Arbeitsauftrag: Erkunde die folgenden Spielplätze. Nutze dafür dein Wissen über das SUPA. Welche positiven und welche negativen Beobachtungen machst du? 
 
 ### Spielplatz 1
 
