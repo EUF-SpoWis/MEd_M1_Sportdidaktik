@@ -24,33 +24,68 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
 ## Motivierung
 
+{{0-1}}
 !?[Aktion Mensch - ziemlich unzertrennlich](https://www.youtube.com/watch?v=99ibUUwjdY0)
 
-## SUPA-Analysetool
+{{1-2}}
+***************************************************************************************************************************************************************************************
+**Woran denkst du beim Thema "Barrierefreie Bewegungsräume?**
 
+    [[___]]
+****************************************************************************************************************************************************************************************************
+
+{{2-3}}
+****************************************************************************************************************************************************************************************************
+**Sollten barrierefreie Anpassungen in Lernräumen nur dann umgesetzt werden, wenn aktuell eine betroffene Person die Einrichtung besucht?**
+
+[( )] A) Ja, Ressourcen sollten bedarfsgerecht und wirtschaftlich eingesetzt werden.
+[( )] B) Ja, solange kurzfristige individuelle Lösungen möglich sind.
+[(X)] C) Nein, Lernräume sollten grundsätzlich für eine heterogene Nutzer*innenschaft konzipiert sein.
+[( )] D) Das hängt von den gesetzlichen Vorgaben ab.
+****************************************************************************************************************************************************************************************************
+
+## Hintergrund 
+
+{{1}}
+> „Nicht umfänglich barrierefreie Schulgebäude, die aktuell gebaut oder umfangreich saniert werden, manifestieren für die nächsten 40 bis 50 Jahre das Nichteinlösen menschenrechtlicher Verpflichtungen und stellen im Sinne der versagten angemessenen Vorkehrungen einen Akt der Diskriminierung dar.“
+
+{{2}}
+> Lehrkräfte sollen über die Gestaltung und konzeptuelle Nutzung von Schulräumen mitentscheiden (HRK & KMK, 2015), also müssen sie auch wissen, inwieweit materiell-räumliche Gegebenheiten Barrierepotenziale bergen und wie diese abgebaut oder umgangen werden können. Es erscheint daher notwendig, entsprechendes professionelles Wissen über Barrieren im Rahmen einer inklusionsorientierten Lehrer*innenbildung zu stärken (Bükers et al., 2021; HRK & KMK, 2015; UNESCO, 2013).
+
+
+## SUPA-Analyseschema
+{{0-1}}
 > Das SUPA (=Schul- und Pausenhof Analyseschema) kann zur Beurteilung der Barrierefreiheit von bewegungsräumen wie Spielplätzen verwendet werden. Es unterscheidte zwischen den Dimensionen *Raum* und *Qualität* (Bükers & Wibowo, 2020; Bükers & Heemsoth, 2022).
 
-**Dimension: Raum**
+{{1-2}}
+| Raum ↓ / Qualität →                                                  | Horizontale Erreichbarkeit | Vertikale Erreichbarkeit | Farbe & Kontrast | Beschilderung | Ordnung | Beleuchtung, Schatten & Beschattung  | Akustik |
+|----------------------------------------------------------------------|----------------------------|--------------------------|------------------|---------------|---------|--------------------------------------|---------|
+| Verkehrswege (Haupt- sowie davon abführende Nebenwege)               |                            |                          |                  |               |         |                                      |         |
+| Spielgeräte (Schaukel, Rutsche, Sandkasten, Seilbahn, Wasserspiel)   |                            |                          |                  |               |         |                                      |         |
+| Sitzgelegenheiten bzw. (gemeinsame) Ausruh-Orte                      |                            |                          |                  |               |         |                                      |         |
+| Materialaufbewahrungsorte (Garage, Gartenhäuschen, Container, etc.)  |                            |                          |                  |               |         |                                      |         |
+| Sportspezifische Räume (Tischtennisplatte, Fußballtore, etc.)        |                            |                          |                  |               |         |                                      |         |
 
-- Verkehrswege (Haupt- sowie davon abführende Nebenwege)
-- Spielgeräte (Schaukel, Rutsche, Sandkasten, Seilbahn, Wasserspiel, etc.)
-- Sitzgelegenheiten bzw. (gemeinsame) Ausruh-Orte (Bänke, Grünflächen, etc.)
-- Materialaufbewahrungsorte (Garage, Gartenhäuschen, Container, etc.)
-- Sportspezifische Räume (Tischtennisplatte, Fußball/-Basketball-Platz, etc.)
-
-**Dimension: Qualität**
-
-- Horizontale Erreichbarkeit
-- Vertikale Erreichbarkeit
-- Farbe & Kontrast
-- Beschilderung
-- Ordnung
-- Beleuchtung, Schatten & Beschattung
-- Akustik
 
 ### Horizontale Erreichbarkeit 
+{{0}}
+******************************************************************************************************************************************************************************************************
+**Beschreibung**
 
-im Aufbau
+Horizontale Erreichbarkeit bedeutet, dass sich alle Nutzer*innen auf einer horizontalen Ebene überall auf dem Schulhof hinbewegen können. 
+******************************************************************************************************************************************************************************************************
+
+{{1}}
+******************************************************************************************************************************************************************************************************
+**Prinzip**
+
+„Ich kann alle Raumbereiche (auch trotz verschiedener Höhenlevel) schwellenlos erreichen.“
+******************************************************************************************************************************************************************************************************
+
+{{2}}
+******************************************************************************************************************************************************************************************************
+![Horizontale Erreichbarkeit](https://wimasu.de/wp-content/uploads/2020/11/horizontale-erreichbarkeit-wimasu-inklusion.png "Orientierungsmaße für die Breite von Verkehrswegen (Darstellung von Wimasu.de; nach Hopf 2010; Jocher & Loch 2012)")
+******************************************************************************************************************************************************************************************************
 
 ### Vertikale Erreichbarkeit
 
@@ -80,7 +115,7 @@ im Aufbau
 
 > Arbeitsauftrag: Erkunde die folgenden Spielplätze. Nutze dafür dein Wissen über das SUPA. Welche positiven und welche negativen Beobachtungen machst du? 
 
-### Spielplatz 1
+**Spielplatz 1**
 
 <iframe
   src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Großer_Spielplatz/index.html"
@@ -94,7 +129,7 @@ im Aufbau
 © 2020 Frederik Bükers – 360°-Aufnahme eines Hamburger Spielplatzes.  
 </figcaption>
 
-### Spielplatz 2 
+**Spielplatz 2** 
 
 <iframe
   src="https://euf-spowis.github.io/MEd_M1_Sportdidaktik/panorama/Onkel_Rudi/index.html"
@@ -110,6 +145,6 @@ im Aufbau
 
 ## Quellen
 
-- Bükers, F., & Heemsoth, T. (2022). Barrierefreiheit von Schulhöfen durch Analysebeispiele identifizieren lernen. Qualifizierung für Inklusion, 4(1). 
+- Bükers, F., & Heemsoth, T. (2022). Barrierefreiheit von Schulhöfen durch Analysebeispiele identifizieren lernen. Qualifizierung für Inklusion, 4(1). https://doi.org/10.21248/qfi.80 
 - Bükers, F., & Wibowo, J. (2020). Barrierefreiheit von Sporthallen. German Journal of Exercise and Sport Research, 50(1), 71–81. https://doi.org/10.1007/s12662-019-00636-8 
-
+- Wibowo, Jonas (2021). Geräteraum-Management in der Sporthalle. Zugriff am 16.02.2026 unter https://wimasu.de/geraeteraum-manager/
