@@ -47,7 +47,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 ## Hintergrund 
 
 {{1}}
-> „Nicht umfänglich barrierefreie Schulgebäude, die aktuell gebaut oder umfangreich saniert werden, manifestieren für die nächsten 40 bis 50 Jahre das Nichteinlösen menschenrechtlicher Verpflichtungen und stellen im Sinne der versagten angemessenen Vorkehrungen einen Akt der Diskriminierung dar.“
+> „Nicht umfänglich barrierefreie Schulgebäude, die aktuell gebaut oder umfangreich saniert werden, manifestieren für die nächsten 40 bis 50 Jahre das Nichteinlösen menschenrechtlicher Verpflichtungen und stellen im Sinne der versagten angemessenen Vorkehrungen einen Akt der Diskriminierung dar.“ (Degenhardt, 2018, S. 148)
 
 {{2}}
 > Lehrkräfte sollen über die Gestaltung und konzeptuelle Nutzung von Schulräumen mitentscheiden (HRK & KMK, 2015), also müssen sie auch wissen, inwieweit materiell-räumliche Gegebenheiten Barrierepotenziale bergen und wie diese abgebaut oder umgangen werden können. Es erscheint daher notwendig, entsprechendes professionelles Wissen über Barrieren im Rahmen einer inklusionsorientierten Lehrer*innenbildung zu stärken (Bükers et al., 2021; HRK & KMK, 2015; UNESCO, 2013).
