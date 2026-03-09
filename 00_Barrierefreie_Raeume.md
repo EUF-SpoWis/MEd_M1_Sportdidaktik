@@ -46,7 +46,7 @@ import:  https://raw.githubusercontent.com/EUF-SpoWis/MEd_M1_Sportdidaktik/refs/
 
 ## Hintergrund 
 
-{{1}}
+{{0-1}}
 > „Nicht umfänglich barrierefreie Schulgebäude, die aktuell gebaut oder umfangreich saniert werden, manifestieren für die nächsten 40 bis 50 Jahre das Nichteinlösen menschenrechtlicher Verpflichtungen und stellen im Sinne der versagten angemessenen Vorkehrungen einen Akt der Diskriminierung dar.“ (Degenhardt, 2018, S. 148)
 
 {{2}}
